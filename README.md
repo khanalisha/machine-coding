@@ -1,26 +1,26 @@
 # machine-coding
 
-Infinite Scrolling with Modal Comments
+Infinite Scrolling with Modal Comments <br>
 This project demonstrates how to implement infinite scrolling and modal popups for displaying comments fetched from a JSON API. When users scroll to the bottom of the page, additional comments are loaded dynamically. Clicking on a comment opens a modal displaying more details about that comment.
 
 # Features
 
-Infinite scrolling: New comments are fetched and displayed as the user scrolls down.
-Modal popup: Clicking on a comment opens a modal displaying additional details such as the username, email, and comment body.
-Fetching comments from a JSON API: Comments are fetched from the JSONPlaceholder API.
+Infinite scrolling: New comments are fetched and displayed as the user scrolls down. <br>
+Modal popup: Clicking on a comment opens a modal displaying additional details such as the username, email, and comment body. <br>
+Fetching comments from a JSON API: Comments are fetched from the JSONPlaceholder API. <br>
 
 # Technologies Used
 
-HTML
-CSS
-JavaScript
-Usage
+HTML <br>
+CSS <br>
+JavaScript <br>
+
 
 # Clone the repository:
 
 bash <br>
 Copy code
-git clone "https://github.com/khanalisha/machine-coding.git"
+git clone "https://github.com/khanalisha/machine-coding.git"  <br>
 Open the index.html file in your web browser.
 
 # Dependencies
