@@ -18,7 +18,7 @@ Usage
 
 # Clone the repository:
 
-bash
+bash <br>
 Copy code
 git clone "https://github.com/khanalisha/machine-coding.git"
 Open the index.html file in your web browser.
